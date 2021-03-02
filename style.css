@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h1, h2{
+    color: #e06a15c9;
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+/* redundant, as we alerady selected classes: 
+p{
+    text-align: justify;
+}*/
+
+.main_txt{
+    text-align: justify;
+    margin-bottom: 25px;
+}
+
+.author_txt{
+    font-size: 22px;
+}
